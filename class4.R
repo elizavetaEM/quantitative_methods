@@ -112,3 +112,4 @@ y <- c(10, 30, 50)
 corr = cor(x,y)
 print(corr)
 print(cor(x, y, method = "pearson")) 
+
